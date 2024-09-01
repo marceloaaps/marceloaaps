@@ -19,7 +19,11 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
   - Linux Ubuntu
   - IntelliJ
   - VSCode
-  - Git
+  - Tomcat
+  - MySQL
+  - SQL Server
+  - MariaDB
+  - Figma
 
 ## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 <p style="font-size: 14px; color: #ffffff;">Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.</p>
