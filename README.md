@@ -22,10 +22,8 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
   - IntelliJ
   - VSCode
   - Postman
-  - MySQL
-  - SQL Server
-  - MariaDB
-  - XAMPP
+  - MySQL, SQL Server,  MariaDB
+  - XAMPP, Laravel
   - Figma
 
 ## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
