@@ -21,7 +21,7 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
   - Linux Ubuntu
   - IntelliJ
   - VSCode
-  - Tomcat
+  - Postman
   - MySQL
   - SQL Server
   - MariaDB
