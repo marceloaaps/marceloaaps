@@ -4,10 +4,9 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 
 ## Habilidades <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
 
-
+Abaixo estão algumas das tecnologias que eu mais tenho conforto.
 - <img width="35px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principais Tecnologias
-  - Java <img width="20px" src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
-  - Springboot
+  - Java/Spring <img width="20px" src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
   - Lua
   - PHP
   - C
@@ -18,13 +17,15 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
   
 
 - <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30">  Ferramentas
-  - Linux Ubuntu
+  - Linux
   - IntelliJ
   - VSCode
   - Postman
-  - MySQL // SQL Server //  MariaDB
+  - Swagger
+  - MySQL // SQL Server //  MariaDB // H2 // PostgreSQL
   - XAMPP // Laravel
   - Figma
+    
 
 ## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 <p style="font-size: 14px; color: #ffffff;">Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.</p>
