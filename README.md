@@ -10,7 +10,7 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - Lua
   - PHP
   - C
-  - SQL
+  - MySQL // SQL Server // MariaDB // H2 // PostgreSQL
   - HTML/CSS
   - Javascript
   - Python
@@ -22,7 +22,6 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - VSCode
   - Postman
   - Swagger
-  - MySQL // SQL Server //  MariaDB // H2 // PostgreSQL
   - XAMPP // Laravel
   - Figma
     
