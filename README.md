@@ -30,8 +30,8 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
 <p style="font-size: 14px; color: #ffffff;">Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.</p>
 
 
-<a href="https://www.linkedin.com/in/marcelo-alexandre-dev/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80px"></a><a href="https://discord.com/users/276064539739684864"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80px"></a>
-
+<a href="https://www.linkedin.com/in/marcelo-alexandre-dev/"><img alt="linkedin/marcelo-alexandre-dev" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80px"></a><a href="https://discord.com/users/276064539739684864"><img alt="marcelinbtw" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80px"></a>
+<a href="mailto:devmarceloalexandre@gmail.com"><img alt="devmarceloalexandre@gmail.com" src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" width="80px"></a>
 
 
 ## Alguns status <img width="35px" style="vertical-align: middle; margin: 0px 0px 8px 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif">
