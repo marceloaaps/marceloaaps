@@ -7,13 +7,13 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 Abaixo estão algumas das tecnologias que eu mais tenho conforto.
 - <img width="35px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principais Tecnologias
   - Java/Spring <img width="20px" src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
-  - Lua
+  - MySQL // SQL Server //  PostgreSQL // MariaDB 
   - PHP
-  - C
-  - MySQL // SQL Server // MariaDB // H2 // PostgreSQL
   - HTML/CSS
   - Javascript
+  - C
   - Python
+  - Lua
   
 
 - <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30">  Ferramentas
@@ -24,7 +24,14 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - Swagger
   - XAMPP // Laravel
   - Figma
-    
+
+- <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30">  Conhecimentos
+  - Clean Code
+  - Design Patterns
+  - SOLID
+  - DDD/TDD/BDD
+  - API Rest
+
 
 ## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 <p style="font-size: 14px; color: #ffffff;">Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.</p>
