@@ -11,6 +11,7 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - PHP
   - HTML/CSS
   - Javascript
+  - C#
   - C
   - Python
   - Lua
