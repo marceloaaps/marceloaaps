@@ -21,17 +21,18 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - Linux
   - IntelliJ
   - VSCode
-  - Postman
-  - Insomnia
+  - Insomnia/Postman
   - Swagger
+  - Flyway
+  - JWT
   - XAMPP // Laravel
   - Figma
 
 - <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30">  Conhecimentos
-  - Clean Code
+  - Clean Code / SOLID
+  - Clean Architecture
   - Design Patterns
-  - SOLID
-  - DDD/TDD/BDD
+  - DDD/TDD
   - API RESTful
 
 
