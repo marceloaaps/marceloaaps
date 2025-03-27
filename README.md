@@ -1,5 +1,5 @@
  # Olá, eu sou o Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
-Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistemas de Informação** na Universidade de Uberaba há quase 3 anos e estou em busca de oportunidade na área como 👨‍💻 Desenvolvedor Back-end ou Fullstack.
+Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistemas de Informação** na Universidade de Uberaba há 3 anos e atuando na área como 👨‍💻 Desenvolvedor Fullstack com foco em Golang e React.
 
 
 ## Habilidades <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
@@ -8,10 +8,10 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
 - <img width="35px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principais Tecnologias
   - Java / Spring Framework <img width="20px" src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
   - Golang 
-  - MySQL // SQL Server // PostgreSQL // MariaDB 
+  - MySQL / SQL Server / PostgreSQL / MariaDB 
   - PHP
-  - HTML/CSS
-  - Javascript
+  - HTML / CSS
+  - Javascript / React
   - C#
   - C
   - Python
@@ -19,7 +19,6 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   
 
 - <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30">  Ferramentas
-  - Docker
   - Linux
   - IntelliJ
   - VSCode
@@ -28,6 +27,7 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - JWT
   - XAMPP / Laravel
   - Figma
+  - Docker (aprendendo)
 
 - <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30">  Conceitos
   - Clean Code / SOLID
