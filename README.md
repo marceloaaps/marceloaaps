@@ -24,8 +24,7 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - VSCode
   - Insomnia / Postman
   - Swagger
-  - JWT
-  - XAMPP / Laravel
+  - XAMPP
   - Figma
   - Docker (aprendendo)
 
