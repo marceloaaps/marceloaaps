@@ -12,7 +12,6 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - PHP
   - HTML / CSS
   - Javascript / React
-  - C#
   - C
   - Python
   - Lua
@@ -34,6 +33,7 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
   - Design Patterns
   - DDD/TDD
   - API RESTful
+  - Estrutura de Dados
 
 
 ## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
