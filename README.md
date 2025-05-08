@@ -20,12 +20,14 @@ Abaixo estão algumas das tecnologias que eu mais tenho conforto.
 - <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30">  Ferramentas
   - Linux
   - IntelliJ
+  - Docker
+  - Amazon Web Services - AWS (Aprendendo)
   - VSCode
   - Insomnia / Postman
   - Swagger
   - XAMPP
   - Figma
-  - Docker (aprendendo)
+
 
 - <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30">  Conceitos
   - Clean Code / SOLID
