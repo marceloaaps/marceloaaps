@@ -1,57 +1,110 @@
- # Olá, eu sou o Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
-Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistemas de Informação** na Universidade de Uberaba há 3 anos e atuando na área como 👨‍💻 Desenvolvedor Fullstack com foco em Golang e React.
+# Olá, eu sou o Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
+Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistemas de Informação (8/8)** na Universidade de Uberaba há 3 anos e atuando na área como 👨‍💻 Desenvolvedor Fullstack com foco em Golang e React.
+
+## 🚀 Principais Habilidades <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
+
+### 📝 Linguagens  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
+![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=5D6D7E&shadow=rgba(0,0,0,0.3))&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=8E44AD&shadow=rgba(0,0,0,0.3))&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=F1C40F&shadow=rgba(0,0,0,0.3))&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))  
 
 
-## Habilidades <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
-
-Abaixo estão algumas das tecnologias que eu mais tenho conforto.
-- <img width="35px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Principais Tecnologias
-  - Java / Spring Framework <img width="20px" src="https://camo.githubusercontent.com/d50eff3850de45840a5ca6bb2fb636fce56e47d22b98caf05b35e674d6b1eaca/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">
-  - Golang 
-  - MySQL / SQL Server / PostgreSQL / MariaDB 
-  - PHP
-  - HTML / CSS
-  - Javascript / React
-  - C
-  - Python
-  - Lua
-  
-
-- <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30">  Ferramentas
-  - Linux
-  - IntelliJ
-  - Docker
-  - Amazon Web Services - AWS (Aprendendo)
-  - VSCode
-  - Insomnia / Postman
-  - Swagger
-  - XAMPP
-  - Figma
+### ⚙️ Frameworks & Bibliotecas  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))&nbsp;
+![GORM](https://img.shields.io/badge/GORM-%230073B1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%230066CC?style=for-the-badge&logo=go&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23E34C26?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
-- <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30">  Conceitos
-  - Clean Code / SOLID
-  - Clean Architecture / Layered Architecture / MVC
-  - Design Patterns
-  - DDD/TDD
-  - API RESTful
-  - Estrutura de Dados
+### 🗄️ Bancos de Dados  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E74C3C&shadow=rgba(0,0,0,0.3))  
+
+### 🔄 Migrations  
+![Flyway](https://img.shields.io/badge/Flyway-%23007ACC?style=for-the-badge&logo=flyway&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))&nbsp;
+![Liquibase](https://img.shields.io/badge/Liquibase-%230073A1?style=for-the-badge&logo=liquibase&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=005A87&shadow=rgba(0,0,0,0.3))&nbsp;
+![Atlas](https://img.shields.io/badge/Atlas_Migration-%23FF6F61?style=for-the-badge&logo=datawrapper&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E94B3C&shadow=rgba(0,0,0,0.3))  
 
 
-## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin: 0px 0px 0px 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
-<p style="font-size: 14px; color: #ffffff;">Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.</p>
+### 🌐 Web & Frontend  
+
+<div style="display: flex; gap: 50px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E67E22&shadow=rgba(0,0,0,0.3)" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3)" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=20&labelColor=2C2C2C&color=34495E&shadow=rgba(0,0,0,0.3)" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=1ABC9C&shadow=rgba(0,0,0,0.3)" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E74C3C&shadow=rgba(0,0,0,0.3)" alt="Figma")  
+</div>
+ 
+---
+
+## 🛠️ Principais Ferramentas <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" />
+
+### 🐳 Containers & Nuvem  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))  
+
+### 📡 API & Documentação  
+![Insomnia](https://img.shields.io/badge/Insomnia-%234541f5?style=for-the-badge&logo=insomnia&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=8E44AD&shadow=rgba(0,0,0,0.3))&nbsp;
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E67E22&shadow=rgba(0,0,0,0.3))&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))  
+
+### 🐧 Sistemas Operacionais  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=F1C40F&shadow=rgba(0,0,0,0.3))&nbsp;
+![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=0078D6&shadow=rgba(0,0,0,0.3))  
+
+### 💻 IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=34495E&shadow=rgba(0,0,0,0.3))&nbsp;
+![GoLand](https://img.shields.io/badge/GoLand-%23000000?style=for-the-badge&logo=goland&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=34495E&shadow=rgba(0,0,0,0.3))&nbsp;
+![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))&nbsp;
 
 
+
+## Conceitos <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30" style="vertical-align: middle; margin-right: 8px;"> 
+  <img src="https://img.shields.io/badge/Clean_Code-0A9D58?style=for-the-badge&logo=codefactor&logoColor=white" alt="Clean Code" />&nbsp;
+  <img src="https://img.shields.io/badge/SOLID-F1592A?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID" />&nbsp;
+  <img src="https://img.shields.io/badge/Clean_Architecture-3B82F6?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture" />&nbsp;
+  <img src="https://img.shields.io/badge/Layered_Architecture-2563EB?style=for-the-badge&logo=architecture&logoColor=white" alt="Layered Architecture" />&nbsp;
+  <img src="https://img.shields.io/badge/MVC-7C3AED?style=for-the-badge&logo=laravel&logoColor=white" alt="MVC" />  
+  <img src="https://img.shields.io/badge/Design_Patterns-F59E0B?style=for-the-badge&logo=patternfly&logoColor=white" alt="Design Patterns" />&nbsp;
+  <img src="https://img.shields.io/badge/DDD-10B981?style=for-the-badge&logo=domain-driven-design&logoColor=white" alt="DDD" />&nbsp;
+  <img src="https://img.shields.io/badge/TDD-F43F5E?style=for-the-badge&logo=testcafe&logoColor=white" alt="TDD" />
+  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-FF6F61?style=for-the-badge&logo=aws&logoColor=white" alt="Microsserviços" />
+
+
+
+
+## 📊 Alguns status do GitHub (Pessoal) <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloaaps&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaaps&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180em" />
+</div>
+
+## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+
+Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.
+<p style="font-size: 14px; color: #ffffff; text-align: center; max-width: 400px; margin: 0 auto;">
+
+
+<div align="center">
 <a href="https://www.linkedin.com/in/marcelo-alexandre-dev/"><img alt="linkedin/marcelo-alexandre-dev" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80px"></a><a href="https://discord.com/users/276064539739684864"><img alt="marcelinbtw" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80px"></a>
 <a href="mailto:devmarceloalexandre@gmail.com"><img alt="devmarceloalexandre@gmail.com" src="https://moein.video/wp-content/uploads/2022/12/gmail-logo-gif-gmail-icon-gif-royalty-free-animated-icon-gif-350px-after-effects-project.gif" width="80px"></a>
 
-
-## Alguns status <img width="35px" style="vertical-align: middle; margin: 0px 0px 8px 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif">
-<div>
-<a href="https://github.com/marceloaaps"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaaps&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-<p style="font-size: 10px; font-style: italic; color: #ffffff;">*Os status estão alterados por conta de projetos externos.</p>
+
+
+
+
+
+
+
 
 
 
