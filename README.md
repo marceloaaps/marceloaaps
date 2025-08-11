@@ -83,7 +83,6 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 ## 📊 Alguns status do GitHub (Pessoal) <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marceloaaps&theme=radical&hide_border=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaaps&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180em" />
 </div>
 
