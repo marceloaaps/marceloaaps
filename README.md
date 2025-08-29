@@ -16,6 +16,7 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))&nbsp;
 ![GORM](https://img.shields.io/badge/GORM-%230073B1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%230066CC?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=20&labelColor=2C2C2C&color=34495E&shadow=rgba(0,0,0,0.3)" alt="React" />
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23E34C26?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
@@ -36,7 +37,6 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 <div style="display: flex; gap: 50px; flex-wrap: nowrap; align-items: center;">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E67E22&shadow=rgba(0,0,0,0.3)" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3)" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoWidth=20&labelColor=2C2C2C&color=34495E&shadow=rgba(0,0,0,0.3)" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=1ABC9C&shadow=rgba(0,0,0,0.3)" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E74C3C&shadow=rgba(0,0,0,0.3)" alt="Figma")  
 </div>
