@@ -7,7 +7,6 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=5D6D7E&shadow=rgba(0,0,0,0.3))&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=8E44AD&shadow=rgba(0,0,0,0.3))&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=F1C40F&shadow=rgba(0,0,0,0.3))&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))  
 
