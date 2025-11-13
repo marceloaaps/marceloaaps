@@ -1,9 +1,9 @@
-# Olá, eu sou o Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
-Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistemas de Informação (8/8)** na Universidade de Uberaba há 3 anos e atuando na área como 👨‍💻 Desenvolvedor Fullstack com foco em Golang e React.
+# Hi, I'm Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
+I'm passionate about video games and music, currently studying **🎓Information Systems (8/8)** at Universidade de Uberaba (Brazil) for 4 years and working in the field as a 👨‍💻 Fullstack Developer focused on Golang and React.
 
-## 🚀 Principais Habilidades <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
+## 🚀 Main Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
 
-### 📝 Linguagens  
+### 📝 Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=5D6D7E&shadow=rgba(0,0,0,0.3))&nbsp;
@@ -11,7 +11,7 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))  
 
 
-### ⚙️ Frameworks & Bibliotecas  
+### ⚙️ Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))&nbsp;
 ![GORM](https://img.shields.io/badge/GORM-%230073B1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-%230066CC?style=for-the-badge&logo=go&logoColor=white)
@@ -19,7 +19,7 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23E34C26?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
-### 🗄️ Bancos de Dados  
+### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=2980B9&shadow=rgba(0,0,0,0.3))&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -42,19 +42,19 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
  
 ---
 
-## 🛠️ Principais Ferramentas <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" />
+## 🛠️ Main Tools <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" />
 
-### 🐳 Containers & Nuvem  
+### 🐳 Containers & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))  
 
-### 📡 API & Documentação  
+### 📡 API & Documentation  
 ![Insomnia](https://img.shields.io/badge/Insomnia-%234541f5?style=for-the-badge&logo=insomnia&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=8E44AD&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E67E22&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))  
 
-### 🐧 Sistemas Operacionais  
+### 🐧 Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=20&labelColor=2C2C2C&color=F1C40F&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=0078D6&shadow=rgba(0,0,0,0.3))  
 
@@ -65,7 +65,7 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
 
 
 
-## Conceitos <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30" style="vertical-align: middle; margin-right: 8px;"> 
+## Concepts <img src="https://i.pinimg.com/originals/a5/8c/62/a58c6222447d465505931f1ecd7be1c1.gif" width="30" style="vertical-align: middle; margin-right: 8px;"> 
   <img src="https://img.shields.io/badge/Clean_Code-0A9D58?style=for-the-badge&logo=codefactor&logoColor=white" alt="Clean Code" />&nbsp;
   <img src="https://img.shields.io/badge/SOLID-F1592A?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID" />&nbsp;
   <img src="https://img.shields.io/badge/Clean_Architecture-3B82F6?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture" />&nbsp;
@@ -74,20 +74,20 @@ Sou apaixonado por video-games e música, atualmente estou cursando **🎓Sistem
   <img src="https://img.shields.io/badge/Design_Patterns-F59E0B?style=for-the-badge&logo=patternfly&logoColor=white" alt="Design Patterns" />&nbsp;
   <img src="https://img.shields.io/badge/DDD-10B981?style=for-the-badge&logo=domain-driven-design&logoColor=white" alt="DDD" />&nbsp;
   <img src="https://img.shields.io/badge/TDD-F43F5E?style=for-the-badge&logo=testcafe&logoColor=white" alt="TDD" />
-  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-FF6F61?style=for-the-badge&logo=aws&logoColor=white" alt="Microsserviços" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=aws&logoColor=white" alt="Microservices" />
 
 
 
 
-## 📊 Alguns status do GitHub (Pessoal) <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
+## 📊 Some GitHub Stats (Personal) <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" />
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloaaps&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180em" />
 </div>
 
-## Ei, me manda uma mensagem! <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+## Hey, send me a message! <img width="35px" style="vertical-align: middle; margin-left: 5px;" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 
-Achou algo interessante ou está com dúvida em algo? Me manda mensagem, sou todo ouvidos.
+Found something interesting or have a question? Send me a message, I'm all ears.
 <p style="font-size: 14px; color: #ffffff; text-align: center; max-width: 400px; margin: 0 auto;">
 
 
