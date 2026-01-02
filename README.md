@@ -1,5 +1,5 @@
 # Hi, I'm Marcelo! <img width="35px" margin="0px" src="https://media.tenor.com/4K2_dLLq-pwAAAAj/charmander-chases-tail.gif">
-I'm passionate about video games and music, Bachelor's Degree in 🎓Information Systems**, working in the field as a 👨‍💻 Fullstack Developer focused on Java, Golang and React.
+I'm passionate about video games and music, Bachelor's Degree in **🎓Information Systems**, working in the field as a 👨‍💻 Fullstack Developer focused on Java, Golang and React.
 
 ## 🚀 Main Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" style="vertical-align: middle;" />
 
