@@ -47,9 +47,9 @@ I'm passionate about video games and music, Bachelor's Degree in **🎓Informati
 ### 🐳 Containers & Cloud  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=3498DB&shadow=rgba(0,0,0,0.3))&nbsp;
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))  
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=F39C12&shadow=rgba(0,0,0,0.3))&nbsp;
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=nginx&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=27AE60&shadow=rgba(0,0,0,0.3))&nbsp;
-![Apache APISIX](https://img.shields.io/badge/Apache%20APISIX-%23D22128?style=for-the-badge&logo=apacheapisix&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E74C3C&shadow=rgba(0,0,0,0.3))
+![Apache APISIX](https://img.shields.io/badge/Apache%20APISIX-%23D22128?style=for-the-badge&logo=apacheapisix&logoColor=white&logoWidth=20&labelColor=2C2C2C&color=E74C3C&shadow=rgba(0,0,0,0.3))&nbsp;
 
 
 ### 📡 API & Documentation  
